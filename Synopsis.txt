@@ -1,0 +1,23 @@
+2048 GAME
+
+Team Members:
+. Gaurav Sharma(18103050)
+. Jaideep Singh(18103005)
+. Pratyaksh Kalra(18103129)
+
+Objective:
+To implement a game 2048 for our project which will inculcate the
+knowledge of tKinter and use of 2-D list in python.
+
+Description:
+2048 is a single-player sliding block puzzle game designed by Italian web
+developer Gabriele Cirulli.
+The game's objective is to slide numbered tiles on a grid to combine them
+to create a tile with the number 2048.
+However, one can continue to play the game after reaching the goal,
+creating tiles with larger numbers. Also, providing a functioonality
+to solve the game with the help of Machine learning.
+
+Scope:
+To gain proficiency in application of GUI and learning about backend
+working of a game
